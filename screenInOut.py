@@ -3,5 +3,5 @@ name = input("이름을 입력하세요: ")
 student_id = input("학번을 입력하세요: ")
 
 # Output inputed data
-print("이름: ", name)
-print("학번: ", student_id) 
+print("이름은 ", name, "입니다.")
+print("학번은 ", student_id, "입니다.") 
