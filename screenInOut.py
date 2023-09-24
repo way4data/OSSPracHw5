@@ -2,8 +2,10 @@
 name = input("이름을 입력하세요: ")
 student_id = input("학번을 입력하세요: ")
 mydept = input("학과를 입력하세요: ")
+grade = input("학년을 입력하세요: ")
 
 # Output inputed data
 print("이름은 ", name, "입니다.")
 print("학번은 ", student_id, "입니다.") 
 print("학과는 ", mydept, "입니다.")
+print("학년은 ", grade, "학년입니다.")
