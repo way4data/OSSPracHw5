@@ -4,6 +4,3 @@ Created by KS Lee on 24th September.
 
 Fetch & Merge
 A
-B
-C
-D
